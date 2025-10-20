@@ -1,0 +1,10 @@
+env/
+.env/
+*.csv
+*.zip
+*.bin
+*.safetensors
+*.dll
+__pycache__/
+data/
+models/
