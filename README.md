@@ -22,7 +22,7 @@ The rapid spread of misinformation in digital news poses significant risks to pu
 
 ## Installation & Usage
 
-git clone https://github.com/VedantWedhaneGit/Multilingual-Misinformation-Detector.git
+git clone https://github.com/VedantGit7/Multilingual-Misinformation-Detector.git
 cd Multilingual-Misinformation-Detector
 pip install -r requirements.txt
 cd app
